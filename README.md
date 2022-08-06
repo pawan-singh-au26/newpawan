@@ -52,7 +52,7 @@
 
   <br/>
     <a href="https://github.com/pawan-singh-au26/github-readme-stats"><img alt="pawan singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pawan-singh-au26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/delegent/github-readme-stats"><img alt="delegent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delegent&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pawan-singh-au26/github-readme-stats"><img alt="pawan-singh-au26's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-singh-au26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/pawan-singh-au26/github-readme-activity-graph"><img alt="delegent's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=delegent&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/pawan-singh-au26/github-readme-activity-graph"><img alt="pawan-singh-au26's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pawan-singh-au26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -76,6 +76,6 @@
 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=delegent">
+    <img src="https://komarev.com/ghpvc/?username=pawan-singh-au26">
 </a>
-<a href="https://github.com/delegent?tab=followers"><img src="https://img.shields.io/github/followers/delegent?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/delegent?tab=followers"><img src="https://img.shields.io/github/followers/pawan-singh-26?label=Followers&style=social" alt="GitHub Badge"></a>
