@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my information are available at **[My Portfolio](https://delegent.github.io/port-folio)**
 
-- 📫 How to reach me **srivastavaanubhav764@gmail.com**
+- 📫 How to reach me **pawansinghkhirau@gmail.com**
 
 - ⚡ Hobbies **I love to do workouts and being updated on the tech trends**
 
