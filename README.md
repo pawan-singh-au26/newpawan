@@ -51,7 +51,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/delegent/github-readme-stats"><img alt="Anubhav Srivastava's Github Stats" src="https://github-readme-stats.vercel.app/api?username=delegent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/delegent/github-readme-stats"><img alt="pawan singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=delegent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/delegent/github-readme-stats"><img alt="delegent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delegent&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -68,8 +68,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/anubhav-raj-srivastava/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/__anubhav_srivastava__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/pawan singh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/__pawan_singh__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 - 💻 Take a look on my instagram page **[Tech Bugs](https://www.instagram.com/__tech.bugs__/)**
 
 </p>
